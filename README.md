@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- ⚙ Desenvolvedor Frontend | Fullstack | JavaScript<br>- 🛠 Atualmente desenvolvo projetos pessoais para agregar no meu portfólio</p>
+<p align="left">- ⚙ Desenvolvedor Frontend | JavaScript<br>- 🛠 Atualmente desenvolvo projetos pessoais para agregar no meu portfólio</p>
 
 ###
 
