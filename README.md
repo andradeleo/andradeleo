@@ -21,8 +21,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andradeleo" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andradeleo" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andradeleo&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andradeleo&show_icons=true&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
