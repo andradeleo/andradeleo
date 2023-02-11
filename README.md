@@ -1,4 +1,4 @@
-#Seja bem - vindo(a), Me chamo Leonardo!
+# Seja bem - vindo(a), Me chamo Leonardo!
 
 # 💫 About Me:
 🔭 Desenvolvedor Front - end React.<br>💬 Atualmente desenvolvo projeto para agregar no meu portfólio.<br>
