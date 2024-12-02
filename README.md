@@ -2,8 +2,8 @@
 
 <!-- I got this cards in https://github.com/anuraghazra/github-readme-stats --> 
 <a href="#">
-    <img alt="strak-stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=andradeleo&theme=omni&hide_border=true&theme=dark" /> 
-    <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeleo&layout=compact&hide_border=true&theme=dark" />    
+    <img alt="strak-stats" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=andradeleo&theme=omni&hide_border=true&theme=dark" /> 
+    <img alt="toplangs-stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeleo&layout=compact&hide_border=true&theme=dark" />    
 </a>
 
 <br>
@@ -11,7 +11,7 @@
 
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andradeleo&radius=16&theme=high-contrast&area=true&order=5" height="310" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andradeleo&radius=16&theme=high-contrast&area=true&order=5" height="275" alt="activity-graph graph"  />
 </div>
 
 <br>
