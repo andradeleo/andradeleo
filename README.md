@@ -1,5 +1,26 @@
+ 🤓 **Desenvolvedor Full Stack** com **3+ anos** de experiência.
 
+ <br>
 
+💾 **Tech Stack:**  
+- **Backend:** .NET · Node.JS
+- **Databases:** PostgreSQL · SQL Server  
+- **Frontend:** React · Angular 
+
+🌐 **Interesses:**  
+- Micro-frontends
+- Microsserviços
+- Infraestrutura
+- Arquitetura de Software
+
+<br>
+
+📄 **Projeto Destaque · Plataforma de análise de currículos com IA** [↗](https://www.oncrivo.com.br/)
+
+<br>
+<hr>
+<br>
+  
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andradeleo&radius=16&theme=high-contrast&area=true&order=5" height="275" alt="activity-graph graph"  />
 </div>
