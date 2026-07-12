@@ -13,9 +13,6 @@
 - Infraestrutura
 - Arquitetura de Software
 
-<br>
-
-📄 **Projeto Destaque · Plataforma de análise de currículos com IA** [↗](https://www.oncrivo.com.br/)
 
 <br>
 <hr>
