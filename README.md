@@ -13,18 +13,7 @@
 - Infraestrutura
 - Arquitetura de Software
 
-
 <br>
-<hr>
-<br>
-  
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andradeleo&radius=16&theme=high-contrast&area=true&order=5" height="275" alt="activity-graph graph"  />
-</div>
-
-<br>
-<br>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
